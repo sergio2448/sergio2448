@@ -17,15 +17,16 @@ arbelaez-duque-62965a212/">Linkedin</a>
 
 Some of my skills
 
-💻 Tech:**React, Redux, CSS, JavaScript, NodeJS, Express, PostgreSQL, Git, Bootstrap, Styled Components, TypeScript** 
+💻 Tech:**React, Redux, CSS, JavaScript, NodeJS, Express, PostgreSQL, Git, Sequelize** 
 
-🤝 Soft:**SCRUM, Fast Learning, Team Player, Competitive, Organization and Teach**
+🤝 Soft:**SCRUM, Fast Learning, Team Player, Organization and Teach**
 
 ---
 
 <h3 align="left">Contact</h3>
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergio.arbeldst@gmail.com)
+
 
 ---
 
