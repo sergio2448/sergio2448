@@ -42,6 +42,8 @@ La SPA consume datos de una API (The Dog API) a través de un Back End desarroll
 <img align="center" src="https://user-images.githubusercontent.com/84557725/153262048-abaea3cd-7b24-4df6-a3cb-da4e380a55e9.png" alt="Form" width="30%"/>
 </div>
 
+<hr/>
+
 ### <a href="https://github.com/sergio2448/creditcards_with_ml" target="_blank">Detección de fraude con tarjetas de crédito mediante Machine Learning en Python</a>
 
 Se toman diferentes medidas de performance aplicando los algorítmos KNeighborsClassifier, LogisticRegression y DecisionTreeClassifier variando los métodos de balanceo: con el conjunto desbalanceado, balanceando con Oversampling (SMOTE, ADASYN) y balanceando con Undersampling (EditedNearestNeighbours,
