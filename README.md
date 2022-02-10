@@ -53,10 +53,26 @@ RandomUnderSampler).
 
 ### <a href="https://github.com/sergio2448/slideshow" target="_blank">Slideshow</a>
 
+<p>Se crea un slideshow / carousel que se repite de forma infinita, con animaciones y responsive.</p>
+
 <div>
 <img align="left" src="https://user-images.githubusercontent.com/84557725/153477943-5ef02283-9355-4cba-b6ac-f3fbfbc65a0a.png" alt="Principal" width="30%"/>
 <img align="center" src="https://user-images.githubusercontent.com/84557725/153477954-2508e150-775b-4969-aa9c-cab2e36189b6.png" alt="Form" width="30%"/>
 </div>
 
-Se crea un slideshow / carousel que se repite de forma infinita, con animaciones y responsive.
+<hr/>
+
+<h2 align="center"> Projects in process</h2>
+
+### <a href="https://github.com/sergio2448/Recipe-Food" target="_blank">Recipe-Food</a>
+
+<p>Aplicación web donde puedes encontrar diferentes tipos de recetas de cocina conectadas a través de la API de Spoonacular. Desde allí puedes filtrarlos, ordenarlos, crearlos y eliminarlos.</p>
+
+<div>
+<img align="left" src="https://user-images.githubusercontent.com/84557725/153480083-ce3b7cbf-866a-4dfd-9e82-498ebaebe60a.png" alt="Principal" width="30%"/>
+<img align="center" src="https://user-images.githubusercontent.com/84557725/153480962-5ed8d8cd-11b5-45e2-b041-4c011205ff64.png" alt="Form" width="30%"/>
+</div>
+
+
+
 
