@@ -66,7 +66,7 @@ RandomUnderSampler).
 
 ### <a href="https://github.com/sergio2448/Recipe-Food" target="_blank">Recipe-Food</a>
 
-<p>Aplicación web donde puedes encontrar diferentes tipos de recetas de cocina conectadas a través de la API de Spoonacular. Desde allí puedes filtrarlos, ordenarlos, crearlos y eliminarlos.</p>
+<p>Aplicación web donde puedes encontrar diferentes tipos de recetas de cocina conectadas a través de la API de Spoonacular. Desde allí puedes filtrarlas, ordenarlas y crearlas.</p>
 
 <div>
 <img align="left" src="https://user-images.githubusercontent.com/84557725/153480083-ce3b7cbf-866a-4dfd-9e82-498ebaebe60a.png" alt="Principal" width="30%"/>
