@@ -30,7 +30,7 @@ Some of my skills
 
 <hr/>
 
-<h1 align="center"> Projects </h1>
+<h2 align="center"> Projects </h2>
 
 ### <a href="https://github.com/sergio2448/PI-Dogs" target="_blank">PI-Dogs</a>
 <p>Desarrollo de una SPA (Single Page Application) utilizando React para el Front End y Redux como state management. En los estilos se implementó CSS puro sin uso de librerías externas.
