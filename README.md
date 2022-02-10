@@ -32,7 +32,7 @@ Some of my skills
 
 <h1 align="center"> Proyectos </h1>
 
-## <a href="https://github.com/sergio2448/PI-Dogs" target="_blank">PI-Dogs</a>
+# <a href="https://github.com/sergio2448/PI-Dogs" target="_blank">PI-Dogs</a>
 <p>Desarrollo de una SPA (Single Page Application) utilizando React para el Front End y Redux como state management. En los estilos se implementó CSS puro sin uso de librerías externas.
 La SPA consume datos de una API (The Dog API) a través de un Back End desarrollado en Node.JS utilizando Express, agregando nuevas funcionalidades a la API original. En el proyecto se pueden encontrar filtros (nombre, temperamentos, peso, nombre por orden alfabético, creados) y un formulario para la creación de nuevas razas de perros que se almacenan en una base de datos realizada con Sequelize y PostgreSQL.</p>
 
@@ -42,7 +42,10 @@ La SPA consume datos de una API (The Dog API) a través de un Back End desarroll
 <img align="center" src="https://user-images.githubusercontent.com/84557725/153262048-abaea3cd-7b24-4df6-a3cb-da4e380a55e9.png" alt="Form" width="30%"/>
 </div>
 
+# <a href="https://github.com/sergio2448/creditcards_with_ml" target="_blank">Detección de fraude con tarjetas de crédito mediante Machine Learning en Python</a>
 
+Se toman diferentes medidas de performance aplicando los algorítmos KNeighborsClassifier, LogisticRegression y DecisionTreeClassifier variando los métodos de balanceo: con el conjunto desbalanceado, balanceando con Oversampling (SMOTE, ADASYN) y balanceando con Undersampling (EditedNearestNeighbours,
+RandomUnderSampler).
 <!--
 **sergio2448/sergio2448** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
