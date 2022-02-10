@@ -30,7 +30,7 @@ Some of my skills
 
 <hr/>
 
-<h1 align="center"> Proyectos </h1>
+<h1 align="center"> Projects </h1>
 
 ### <a href="https://github.com/sergio2448/PI-Dogs" target="_blank">PI-Dogs</a>
 <p>Desarrollo de una SPA (Single Page Application) utilizando React para el Front End y Redux como state management. En los estilos se implementó CSS puro sin uso de librerías externas.
@@ -48,6 +48,8 @@ La SPA consume datos de una API (The Dog API) a través de un Back End desarroll
 
 Se toman diferentes medidas de performance aplicando los algorítmos KNeighborsClassifier, LogisticRegression y DecisionTreeClassifier variando los métodos de balanceo: con el conjunto desbalanceado, balanceando con Oversampling (SMOTE, ADASYN) y balanceando con Undersampling (EditedNearestNeighbours,
 RandomUnderSampler).
+
+
 <!--
 **sergio2448/sergio2448** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
