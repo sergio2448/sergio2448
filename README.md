@@ -49,18 +49,14 @@ La SPA consume datos de una API (The Dog API) a través de un Back End desarroll
 Se toman diferentes medidas de performance aplicando los algorítmos KNeighborsClassifier, LogisticRegression y DecisionTreeClassifier variando los métodos de balanceo: con el conjunto desbalanceado, balanceando con Oversampling (SMOTE, ADASYN) y balanceando con Undersampling (EditedNearestNeighbours,
 RandomUnderSampler).
 
+<hr/>
 
-<!--
-**sergio2448/sergio2448** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <a href="https://github.com/sergio2448/slideshow" target="_blank">Slideshow</a>
 
-Here are some ideas to get you started:
+<div>
+<img align="left" src="https://user-images.githubusercontent.com/84557725/153477943-5ef02283-9355-4cba-b6ac-f3fbfbc65a0a.png" alt="Principal" width="30%"/>
+<img align="center" src="https://user-images.githubusercontent.com/84557725/153477954-2508e150-775b-4969-aa9c-cab2e36189b6.png" alt="Form" width="30%"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Se crea un slideshow / carousel que se repite de forma infinita, con animaciones y responsive.
+
