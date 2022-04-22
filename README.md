@@ -32,9 +32,9 @@ Some of my skills
 
 <h2 align="center"> Projects </h2>
 
-### <a href="https://github.com/sergio2448/PI-Dogs" target="_blank">PI-Dogs</a>
-<p>Desarrollo de un E-commerce para la venta y alguiler de inmueblesbojo el Stack PERN, Tailwind para los componentes, Auth0 para el login y Mapbox para la ubicación de propiedades. 
-EL objetivo es poder conectar usuarios que estén interesados en vender, comprar o alquilar una propiedad raíz, pudiendo concertar una cita previa, realizar pagos a través de paypal y promocionar sus propiedades dentro de la página</p>
+### <a href="https://github.com/sergio2448/pg_4" target="_blank">Inmuebles</a>
+<p>Desarrollo de un E-commerce para la venta y alguiler de inmuebles bajo el Stack PERN, Tailwind para los componentes, Auth0 para el login y Mapbox para la ubicación de propiedades. 
+EL objetivo es poder conectar usuarios que estén interesados en vender, comprar o alquilar una propiedad raíz, pudiendo concertar una cita previa, realizar pagos a través de paypal y promocionar sus propiedades dentro de la misma página</p>
 
 <div>
 <img align="left" src="https://user-images.githubusercontent.com/84557725/164608112-0073d508-995e-4d1f-8b93-36dc1ecc725f.png" alt="Filtros" width="30%"/>
