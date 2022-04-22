@@ -36,11 +36,10 @@ Some of my skills
 <p>Desarrollo de un E-commerce para la venta y alguiler de inmueblesbojo el Stack PERN, Tailwind para los componentes, Auth0 para el login y Mapbox para la ubicación de propiedades. 
 EL objetivo es poder conectar usuarios que estén interesados en vender, comprar o alquilar una propiedad raíz, pudiendo concertar una cita previa, realizar pagos a través de paypal y promocionar sus propiedades dentro de la página</p>
 
-
 <div>
 <img align="left" src="https://user-images.githubusercontent.com/84557725/164608112-0073d508-995e-4d1f-8b93-36dc1ecc725f.png" alt="Filtros" width="30%"/>
-<img align="right" src="https://user-images.githubusercontent.com/84557725/164608278-1aeceeaa-85eb-4a7f-800d-6161ca447d46.png" alt="Home" width="30%"/>
-<img align="center" src="https://user-images.githubusercontent.com/84557725/164608197-e1f3a490-6ce3-4b0f-a779-ac39ddb2ded9.png" alt="Form" width="30%"/>
+<img align="right" src="https://user-images.githubusercontent.com/84557725/164608197-e1f3a490-6ce3-4b0f-a779-ac39ddb2ded9.png" alt="Home" width="30%"/>
+<img align="center" src="https://user-images.githubusercontent.com/84557725/164608278-1aeceeaa-85eb-4a7f-800d-6161ca447d46.png" alt="Form" width="30%"/>
 </div>
 
 <hr/>
