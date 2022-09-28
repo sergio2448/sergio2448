@@ -89,26 +89,6 @@ RandomUnderSampler).
 
 <hr/>
 
-<h2 align="center"> Projects in process</h2>
 
-### <a href="https://github.com/sergio2448/Recipe-Food" target="_blank">Recipe-Food</a>
-
-<p>Aplicación web donde puedes encontrar diferentes tipos de recetas de cocina conectadas a través de la API de Spoonacular. Desde allí puedes filtrarlas, ordenarlas y crearlas.</p>
-
-<div>
-<img align="left" src="https://user-images.githubusercontent.com/84557725/153480083-ce3b7cbf-866a-4dfd-9e82-498ebaebe60a.png" alt="Principal" width="30%"/>
-<img align="center" src="https://user-images.githubusercontent.com/84557725/153480962-5ed8d8cd-11b5-45e2-b041-4c011205ff64.png" alt="Form" width="30%"/>
-</div>
-
-<hr/>
-
-### <a href="https://github.com/sergio2448/rickandmortygraphql" target="_blank">Rick and Morty (GraphQL)</a>
-
-<p>Desarrollo de una SPA (Single Page Application) utilizando React, Redux, Bootstrap,
-Apollo Client, API (The Rick And Morty API), GraphQL.</p>
-
-<div>
-<img align="left" src="https://user-images.githubusercontent.com/84557725/153484874-59d615f5-2783-4fc4-bd12-bb0ebe1f224e.png" alt="Principal" width="30%"/>
-</div>
 
 
