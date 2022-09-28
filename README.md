@@ -32,21 +32,6 @@ Some of my skills
 
 <h2 align="center"> Projects </h2>
 
-### <a href="https://github.com/sergio2448/cryptoFront" target="_blank">CriptoWallet (React-Native)</a>
-<p>CryptoWallet es una aplicación en donde podrás comprar, vender, y consultar el precio del Bitcoin en tiempo real. El desarrollo consiste de dos aplicaciones conectadas entre sí, una API REST hecha en Ruby On Rails usando como base de datos PostgreSQL y una web app en React-Native utilizando la API Context y Custom Hooks.
-Para consultar el precio del Bitcoin se utiliza la API abierta <a href="https://api.coindesk.com/v1/bpi/currentprice.json" target="_blank">CoinDesk</a> </p>
-
-<div>
-<img align="left" src="https://user-images.githubusercontent.com/84557725/179076969-dc7d1783-e0db-45be-90a5-0c48e0af4b45.jpeg" alt="Form" width="20%"/>
-<img align="right" src="https://user-images.githubusercontent.com/84557725/179070273-beea0fad-0ea7-46f1-97a7-abbe50d82236.jpeg" alt="Form" width="20%"/>
-<img align="center" src="https://user-images.githubusercontent.com/84557725/179075482-30d86c11-1c5e-455c-8f99-1f47a0356cc0.jpeg" alt="Home" width="20%"/>
-<img align="left" src="https://user-images.githubusercontent.com/84557725/179070215-5702e454-9b7f-4128-a6ce-92e3ef7ae249.jpeg" alt="Home" width="20%"/>
-
-</div>
-
-<hr/>
-
-
 ### <a href="https://github.com/sergio2448/pg_4" target="_blank">Inmuebles</a>
 <p>Desarrollo de un E-commerce para la venta y alguiler de inmuebles bajo el Stack PERN, Tailwind para los componentes, Auth0 para el login y Mapbox para la ubicación de propiedades. 
 EL objetivo es poder conectar usuarios que estén interesados en vender, comprar o alquilar una propiedad raíz, pudiendo concertar una cita previa, realizar pagos a través de paypal y promocionar sus propiedades dentro de la misma página</p>
