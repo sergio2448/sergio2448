@@ -44,8 +44,7 @@ Some of my skills
 <hr/>
 
 ### <a href="https://github.com/sergio2448/PI-Dogs" target="_blank">PI-Dogs</a>
-<p>Desarrollo de una SPA (Single Page Application) utilizando React para el Front End y Redux como state management. En los estilos se implementó CSS puro sin uso de librerías externas.
-La SPA consume datos de una API (The Dog API) a través de un Back End desarrollado en Node.JS utilizando Express, agregando nuevas funcionalidades a la API original. En el proyecto se pueden encontrar filtros (nombre, temperamentos, peso, nombre por orden alfabético, creados) y un formulario para la creación de nuevas razas de perros que se almacenan en una base de datos realizada con Sequelize y PostgreSQL.</p>
+<p>Development of a Single Page Application (SPA) using React for the front end and Redux as state management. Pure CSS was implemented for styles without the use of external libraries. The SPA consumes data from an API (The Dog API) through a Back End developed in Node.JS using Express, adding new functionalities to the original API. In the project, filters (name, temperaments, weight, name by alphabetical order, created) and a form for creating new dog breeds can be found, which are stored in a database made with Sequelize and PostgreSQL.</p>
 
 <div>
 <img align="left" src="https://user-images.githubusercontent.com/84557725/153262063-d68a0ff5-e77b-4db9-bb39-df2e2ef470a7.png" alt="Principal" width="30%"/>
@@ -55,16 +54,15 @@ La SPA consume datos de una API (The Dog API) a través de un Back End desarroll
 
 <hr/>
 
-### <a href="https://github.com/sergio2448/creditcards_with_ml" target="_blank">Detección de fraude con tarjetas de crédito mediante Machine Learning en Python</a>
+### <a href="https://github.com/sergio2448/creditcards_with_ml" target="_blank">Credit card fraud detection using Machine Learning in Python.</a>
 
-Se toman diferentes medidas de performance aplicando los algorítmos KNeighborsClassifier, LogisticRegression y DecisionTreeClassifier variando los métodos de balanceo: con el conjunto desbalanceado, balanceando con Oversampling (SMOTE, ADASYN) y balanceando con Undersampling (EditedNearestNeighbours,
-RandomUnderSampler).
+Different performance measures are taken by applying the KNeighborsClassifier, LogisticRegression, and DecisionTreeClassifier algorithms, varying the balancing methods: with the imbalanced dataset, balancing with Oversampling (SMOTE, ADASYN), and balancing with Undersampling (EditedNearestNeighbours, RandomUnderSampler).
 
 <hr/>
 
 ### <a href="https://github.com/sergio2448/slideshow" target="_blank">Slideshow</a>
 
-<p>Se crea un slideshow / carousel que se repite de forma infinita, con animaciones y responsive.</p>
+<p>A slideshow/carousel is created that repeats infinitely, with animations and responsiveness.</p>
 
 <div>
 <img align="left" src="https://user-images.githubusercontent.com/84557725/153477943-5ef02283-9355-4cba-b6ac-f3fbfbc65a0a.png" alt="Principal" width="30%"/>
