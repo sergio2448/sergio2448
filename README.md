@@ -32,9 +32,8 @@ Some of my skills
 
 <h2 align="center"> Projects </h2>
 
-### <a href="https://github.com/sergio2448/pg_4" target="_blank">Inmuebles</a>
-<p>Desarrollo de un E-commerce para la venta y alguiler de inmuebles bajo el Stack PERN, Tailwind para los componentes, Auth0 para el login y Mapbox para la ubicación de propiedades. 
-EL objetivo es poder conectar usuarios que estén interesados en vender, comprar o alquilar una propiedad raíz, pudiendo concertar una cita previa, realizar pagos a través de paypal y promocionar sus propiedades dentro de la misma página</p>
+### <a href="https://github.com/sergio2448/pg_4" target="_blank">Properties</a>
+<p>Development of an E-commerce platform for the sale and rental of real estate using the PERN Stack, Tailwind for components, Auth0 for login, and Mapbox for property location. The objective is to connect users who are interested in buying, selling or renting a property, allowing them to schedule a previous appointment, make payments through Paypal, and promote their properties within the same website.</p>
 
 <div>
 <img align="left" src="https://user-images.githubusercontent.com/84557725/164608112-0073d508-995e-4d1f-8b93-36dc1ecc725f.png" alt="Filtros" width="30%"/>
